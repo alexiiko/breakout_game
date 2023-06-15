@@ -5,7 +5,7 @@ WIDTH = 650
 HEIGHT = 600
 
 screen = pg.display.set_mode((WIDTH, HEIGHT))
-pg.display.set_caption('Title')
+pg.display.set_caption('Breakout')
 #pg.display.set_icon()
 
 FPS = 60
